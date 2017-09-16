@@ -1,0 +1,15 @@
+c:\users\do\documents\visual studio 2017\Projects\TestConnect_NoGui\TestConnect_NoGui\bin\Debug\TestConnect_NoGui.dll
+c:\users\do\documents\visual studio 2017\Projects\TestConnect_NoGui\TestConnect_NoGui\bin\Debug\TestConnect_NoGui.pdb
+c:\users\do\documents\visual studio 2017\Projects\TestConnect_NoGui\TestConnect_NoGui\obj\Debug\TestConnect_NoGui.dll
+c:\users\do\documents\visual studio 2017\Projects\TestConnect_NoGui\TestConnect_NoGui\obj\Debug\TestConnect_NoGui.pdb
+c:\users\do\documents\visual studio 2017\Projects\TestConnect_NoGui\TestConnect_NoGui\obj\Debug\TestConnect_NoGui.csprojResolveAssemblyReference.cache
+D:\DEV_FULL\HUFI & DATA\HK7\Windows NC [Danh]\BTVN_WinFormNC\Tuần 3\TestConnect_NoGui\TestConnect_NoGui\bin\Debug\TestConnect_NoGui.dll
+D:\DEV_FULL\HUFI & DATA\HK7\Windows NC [Danh]\BTVN_WinFormNC\Tuần 3\TestConnect_NoGui\TestConnect_NoGui\bin\Debug\TestConnect_NoGui.pdb
+D:\DEV_FULL\HUFI & DATA\HK7\Windows NC [Danh]\BTVN_WinFormNC\Tuần 3\TestConnect_NoGui\TestConnect_NoGui\obj\Debug\TestConnect_NoGui.dll
+D:\DEV_FULL\HUFI & DATA\HK7\Windows NC [Danh]\BTVN_WinFormNC\Tuần 3\TestConnect_NoGui\TestConnect_NoGui\obj\Debug\TestConnect_NoGui.pdb
+E:\DEV_FULL\HUFI & DATA\HK7\Windows NC [Danh]\BTVN_WinFormNC\Tuần 3\TestConnect_NoGui\TestConnect_NoGui\bin\Debug\TestConnect_NoGui.dll
+E:\DEV_FULL\HUFI & DATA\HK7\Windows NC [Danh]\BTVN_WinFormNC\Tuần 3\TestConnect_NoGui\TestConnect_NoGui\bin\Debug\TestConnect_NoGui.pdb
+E:\DEV_FULL\HUFI & DATA\HK7\Windows NC [Danh]\BTVN_WinFormNC\Tuần 3\TestConnect_NoGui\TestConnect_NoGui\obj\Debug\TestConnect_NoGui.csprojResolveAssemblyReference.cache
+E:\DEV_FULL\HUFI & DATA\HK7\Windows NC [Danh]\BTVN_WinFormNC\Tuần 3\TestConnect_NoGui\TestConnect_NoGui\obj\Debug\TestConnect_NoGui.csproj.CoreCompileInputs.cache
+E:\DEV_FULL\HUFI & DATA\HK7\Windows NC [Danh]\BTVN_WinFormNC\Tuần 3\TestConnect_NoGui\TestConnect_NoGui\obj\Debug\TestConnect_NoGui.dll
+E:\DEV_FULL\HUFI & DATA\HK7\Windows NC [Danh]\BTVN_WinFormNC\Tuần 3\TestConnect_NoGui\TestConnect_NoGui\obj\Debug\TestConnect_NoGui.pdb
