@@ -76,7 +76,6 @@
             this.cbo_ServerName.Size = new System.Drawing.Size(166, 21);
             this.cbo_ServerName.TabIndex = 3;
             this.cbo_ServerName.DropDown += new System.EventHandler(this.cbo_ServerName_DropDown);
-            this.cbo_ServerName.SelectedIndexChanged += new System.EventHandler(this.cbo_ServerName_SelectedIndexChanged);
             // 
             // cbo_Auth
             // 

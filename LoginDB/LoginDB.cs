@@ -51,6 +51,7 @@ namespace LoginDB
             if (cbo_ServerName.Text == "")
                 MessageBox.Show("Chưa chọn tên máy chủ");
             //
+            Settings.Default.serverName = cbo_ServerName.Text;
             Settings.Default.users = txt_User.Text;
             Settings.Default.pass = txt_Pass.Text;
             Settings.Default.Save();
@@ -178,12 +179,6 @@ namespace LoginDB
                 Settings.Default.pass = "";
                 Settings.Default.Save();
             }
-        }
-
-        private void cbo_ServerName_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            Settings.Default.serverName = cbo_ServerName.Text;
-            Settings.Default.Save();
         }
 
         private void cbo_DbName_SelectedIndexChanged(object sender, EventArgs e)
