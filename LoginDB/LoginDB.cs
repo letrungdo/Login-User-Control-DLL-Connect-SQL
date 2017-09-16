@@ -50,8 +50,11 @@ namespace LoginDB
         {
             if (cbo_ServerName.Text == "")
                 MessageBox.Show("Chưa chọn tên máy chủ");
-            
-            
+            //
+            Settings.Default.users = txt_User.Text;
+            Settings.Default.pass = txt_Pass.Text;
+            Settings.Default.Save();
+
             string winAuth = @"Data Source=" + Settings.Default.serverName + ";Initial Catalog=master;Integrated Security=True";
             string sqlAuth = @"Data Source=" + Settings.Default.serverName + ";Initial Catalog=master; User ID =" + Settings.Default.users + "; Password = " + Settings.Default.pass + "";
             //kiểm tra kiểu xác thực
